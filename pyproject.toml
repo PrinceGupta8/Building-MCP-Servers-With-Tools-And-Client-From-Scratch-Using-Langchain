@@ -1,0 +1,11 @@
+[project]
+name = "building-mcp-servers-with-tools-and-client-from-scratch-using-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-groq>=0.3.6",
+    "langchain-mcp-adapters>=0.1.9",
+    "mcp>=1.12.0",
+]
